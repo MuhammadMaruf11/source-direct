@@ -1,0 +1,36 @@
+/* Laptop layout min 1200px */
+
+@media (min-width: 1200px) and (max-width: 1600px) {
+}
+
+/* Mini laptop layout min 769px */
+
+@media (min-width: 769px) and (max-width: 1199px) {
+}
+
+/* Tablet Layout wide: 768px. */
+
+@media (max-width: 768px) {
+  .responsive-menu {
+    display: block; /* Show on mobile and tablet */
+  }
+
+  .nav-list {
+    display: none; /* Hide nav list on mobile and tablet */
+    flex-direction: column;
+    width: 100%;
+  }
+
+  .nav-list.show {
+    display: flex; /* Show nav list when toggled */
+  }
+
+  .header-right {
+    align-self: flex-end;
+  }
+}
+
+/* Mobile layout max 425 */
+
+@media (max-width: 425px) {
+}
