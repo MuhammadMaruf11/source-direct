@@ -1,0 +1,35 @@
+.centro-cares-area {
+  margin: 100px 0;
+}
+
+.centro-cares-area.img-bg {
+  background-image: url("../img/bg/centro.jpg");
+}
+
+.centro-cares-wrap {
+  margin-top: 200px;
+}
+
+.centro-cares-wrap h2 {
+  color: #fff;
+  font-size: 52px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 60px;
+}
+
+.centro-cares-wrap p {
+  color: #fff;
+}
+
+.centro-cares-wrap a {
+  align-items: center;
+  border: 1px solid #fff;
+  color: #fff;
+  display: inline-flex;
+  font-weight: 400;
+  gap: 8px;
+  margin-top: 20px;
+  padding: 10px 20px;
+  text-decoration: none;
+}

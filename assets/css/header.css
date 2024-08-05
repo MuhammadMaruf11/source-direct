@@ -116,7 +116,7 @@
 }
 
 /* Menu Open Icon */
-.menu-open .side-icon a {
+/* .menu-open .side-icon a {
   font-size: 24px;
   color: #333;
   text-decoration: none;
@@ -125,6 +125,65 @@
 
 .menu-open .side-icon a:hover {
   color: #007bff;
+} */
+
+.toggle-icon {
+  font-size: 28px;
+}
+.toggle-icon a {
+  color: #000;
+}
+
+.toggle-icon {
+  position: absolute;
+  left: 14px;
+  top: 20px;
+  z-index: 999;
+  font-size: 20px;
+}
+
+.toggle-icon::before,
+.toggle-icon::after {
+  position: absolute;
+  content: "";
+  width: 18px;
+  height: 3px;
+  border-radius: 30px;
+  background: #000;
+  right: 0;
+  transition: all 0.3s linear;
+}
+
+.toggle-icon::before {
+  top: 15%;
+}
+
+.toggle-icon::after {
+  bottom: 15%;
+}
+
+.toggle-icon.open::before {
+  transform: rotate(45deg);
+  top: 47.5%;
+  height: 2px;
+}
+
+.toggle-icon.open::after {
+  transform: rotate(-45deg);
+  bottom: 47.5%;
+  height: 2px;
+}
+
+.toggle-icon.open i {
+  visibility: hidden;
+}
+
+.toggle-icon {
+  display: block;
+  margin-left: auto;
+  text-align: end;
+  line-height: 1;
+  width: 18px;
 }
 
 /* Header Right */
@@ -163,7 +222,7 @@
 .side-bar-menu {
   z-index: 8888;
   position: fixed;
-  top: 0;
+  top: 65px;
   left: -100%;
   background: #0c1923;
   width: 100%;
@@ -195,4 +254,10 @@
 
 .mean-nav .header-logo img {
   width: 40px;
+}
+
+.mean-container .mean-nav ul li a.mean-expand {
+  font-size: 30px !important;
+  font-weight: 100;
+  line-height: 32px;
 }

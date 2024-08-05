@@ -1,0 +1,42 @@
+.our-leadership-area {
+  margin: 100px 0;
+  position: relative;
+  background: #ececec;
+  padding: 60px 0;
+}
+
+.our-leadership-area .img-bg {
+  background-image: url("../img/bg/leadership.png");
+  max-height: 420px;
+}
+
+.our-leadership-wrap {
+  position: absolute;
+  bottom: 120px;
+  margin-left: 60px;
+  z-index: 2;
+}
+
+.our-leadership-wrap h2 {
+  color: #fff;
+  font-size: 52px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 60px;
+}
+
+.our-leadership-wrap p {
+  color: #fff;
+}
+
+.our-leadership-wrap a {
+  align-items: center;
+  border: 1px solid #fff;
+  color: #fff;
+  display: inline-flex;
+  font-weight: 400;
+  gap: 8px;
+  margin-top: 20px;
+  padding: 10px 20px;
+  text-decoration: none;
+}

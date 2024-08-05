@@ -1,0 +1,32 @@
+.work-with-area {
+  margin: 100px 0;
+}
+
+.work-with-area .section-title {
+  text-align: center;
+}
+
+.work-with-area .section-title h3 {
+  font-size: 32px;
+  font-weight: 700;
+}
+
+.resume-form .input-wrap {
+  margin-bottom: 24px;
+}
+
+.resume-form .input-wrap input[type="text"],
+.resume-form .input-wrap input[type="email"] {
+  padding: 16px;
+}
+
+.resume-form .required {
+  color: #f00;
+  font-style: italic;
+  margin-top: 8px;
+}
+
+.resume-form .btn {
+  width: 100%;
+  padding: 16px;
+}

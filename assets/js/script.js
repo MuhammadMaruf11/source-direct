@@ -10,15 +10,16 @@
             meanScreenWidth: "991"
         });
 
-        $('.side-icon > a').on('click', function (event) {
+        $('.toggle-icon ').on('click', function (event) {
             event.preventDefault();
-            $('.side-bar-menu').addClass('active');
+            $('.side-bar-menu').toggleClass('active');
+            $(this).toggleClass('open');
         });
 
-        $('.close-icon > a').on('click', function (event) {
-            event.preventDefault();
-            $('.side-bar-menu').removeClass('active');
-        });
+        // $('.toggle-icon > a').on('click', function (event) {
+        //     event.preventDefault();
+        //     $('.side-bar-menu').removeClass('active');
+        // });
     }
 
     // Load Header

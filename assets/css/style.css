@@ -1,4 +1,5 @@
 /* font family import by font.google.com  */
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap");
 
 /* default css start here  */
 
@@ -17,6 +18,48 @@
 @import url("./hero.css");
 
 /* hero css end here  */
+
+/* about css start here  */
+
+@import url("./about.css");
+
+/* about css end here  */
+
+/* Our Process css start here  */
+
+@import url("./our-process.css");
+
+/* Our Process css end here  */
+
+/* Our Product css start here  */
+
+@import url("./our-product.css");
+
+/* Our Product css end here  */
+
+/* centro cares css start here  */
+
+@import url("./centro-cares.css");
+
+/* centro cares css end here  */
+
+/* our leadership css start here  */
+
+@import url("./our-leadership.css");
+
+/* our leadership css end here  */
+
+/* trusted partner css start here  */
+
+@import url("./trusted.css");
+
+/* trusted partner css end here  */
+
+/* Work with us css start here  */
+
+@import url("./work-with.css");
+
+/* work with us css end here  */
 
 /* footer css start here  */
 
