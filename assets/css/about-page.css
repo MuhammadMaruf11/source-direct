@@ -1,0 +1,98 @@
+/* hero css start here  */
+
+.vision-mission-area {
+  margin: 100px 0;
+}
+
+.vision-mission-area.img-bg {
+  background-image: url("../img/bg/about-page-2.png");
+}
+
+.section-bottom-title {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.section-bottom-title h4 {
+  font-size: 32px;
+  font-weight: 400;
+}
+
+.section-bottom-title h2 {
+  font-size: 52px;
+  font-weight: 400;
+}
+
+.history-area {
+  margin: 100px 0;
+}
+
+.history-area.img-bg-only {
+  background-image: url("../img/bg/history.jpg");
+  height: 350px;
+}
+
+/* hero css end here  */
+
+/* hero css start here  */
+
+.why-choose-area {
+  margin: 100px 0;
+}
+
+.why-choose-wrap h2 {
+  font-size: 32px;
+  font-weight: 300;
+}
+
+.why-choose-wrap p {
+  text-align: justify;
+}
+
+.choose-card img {
+  height: 500px;
+  object-fit: cover;
+  width: 100%;
+}
+
+.choose-card .card-body {
+  background-color: #ececec;
+  padding: 20px 40px;
+  background: #ececec;
+  height: 240px;
+}
+
+.choose-card .card-body p {
+  text-align: justify;
+  font-size: 14px;
+}
+
+/* hero css end here  */
+
+/* hero css start here  */
+
+.our-certificate-area {
+  margin: 100px 0;
+}
+
+.our-certificate-wrap .section-title h2 {
+  font-weight: 400;
+  font-size: 52px;
+}
+
+.certificate-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.certificate-img {
+  border: 1px solid #ddd;
+  padding: 36px;
+}
+
+.certificate-img img {
+  width: 200px;
+}
+
+/* hero css end here  */

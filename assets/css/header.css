@@ -1,8 +1,19 @@
 /* Header Area */
 .header-area {
   background-color: #fff;
-  border-bottom: 1px solid #ddd;
+  border-bottom: 1px solid #dedede;
   padding: 10px 0;
+  transition: all 0.3s linear;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  z-index: 90;
+}
+
+.header-area.sticky-header {
+  padding: 10px 0;
+  height: 65px;
 }
 
 .header-left {
@@ -47,6 +58,10 @@
   width: 100%;
 }
 
+#mobile-menu ul li:first-child:after {
+  width: 0%;
+}
+
 #mobile-menu > ul > li > a {
   color: #010101;
   display: inline-block;
@@ -64,6 +79,10 @@
   color: #333;
   width: 40px;
   display: block;
+}
+
+#mobile-menu > ul > li:nth-child(2) {
+  display: none;
 }
 
 #mobile-menu ul ul {
@@ -246,6 +265,10 @@
 
 .mean-container > .mean-bar > .mean-nav > ul {
   display: block !important;
+}
+
+.mean-nav ul li:first-child {
+  display: none;
 }
 
 .mean-nav ul li i {

@@ -7,6 +7,7 @@
   display: inline-block;
   margin-bottom: 20px;
   height: 45px;
+  filter: invert(1);
 }
 
 .footer-description p {

@@ -13,53 +13,17 @@
 
 /* header css end here  */
 
-/* hero css start here  */
+/* Home Page css start here  */
 
-@import url("./hero.css");
+@import url("./home-page.css");
 
-/* hero css end here  */
+/* Home Page css end here  */
 
-/* about css start here  */
+/* About Page css start here  */
 
-@import url("./about.css");
+@import url("./about-page.css");
 
-/* about css end here  */
-
-/* Our Process css start here  */
-
-@import url("./our-process.css");
-
-/* Our Process css end here  */
-
-/* Our Product css start here  */
-
-@import url("./our-product.css");
-
-/* Our Product css end here  */
-
-/* centro cares css start here  */
-
-@import url("./centro-cares.css");
-
-/* centro cares css end here  */
-
-/* our leadership css start here  */
-
-@import url("./our-leadership.css");
-
-/* our leadership css end here  */
-
-/* trusted partner css start here  */
-
-@import url("./trusted.css");
-
-/* trusted partner css end here  */
-
-/* Work with us css start here  */
-
-@import url("./work-with.css");
-
-/* work with us css end here  */
+/* About Page css end here  */
 
 /* footer css start here  */
 

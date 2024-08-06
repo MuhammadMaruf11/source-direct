@@ -1,0 +1,366 @@
+/* hero css start here  */
+
+.hero-area {
+  margin: 100px 0;
+}
+
+.section-title h3 {
+  font-size: 22px;
+  font-weight: 400;
+}
+
+.hero-area .img-bg {
+  background-image: url("../img/bg/hero.png");
+}
+
+.common-hero-area {
+  margin: 100px 0;
+  position: relative;
+}
+
+.common-hero-area.img-bg {
+  background-image: url("../img/bg/about-page.png");
+}
+
+.common-hero-area .common-section-title {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.common-hero-area .common-section-title h1 {
+  color: #fff;
+  font-weight: 300;
+  font-size: 67px;
+}
+
+/* hero css end here  */
+
+/* about css start here  */
+
+.about-area {
+  margin: 100px 0;
+}
+
+.about-area.img-bg {
+  background-image: url("../img/bg/about.png");
+}
+
+.about-wrap {
+  margin-top: 200px;
+}
+
+.about-wrap h2 {
+  color: #fff;
+  font-size: 52px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 60px;
+}
+
+.about-wrap p {
+  color: #fff;
+}
+
+.about-wrap a {
+  align-items: center;
+  border: 1px solid #fff;
+  color: #fff;
+  display: inline-flex;
+  font-weight: 400;
+  gap: 8px;
+  margin-top: 20px;
+  padding: 10px 20px;
+  text-decoration: none;
+}
+
+/* about css end here  */
+
+/* Our Process css start here  */
+
+.our-process-area {
+  margin: 100px 0;
+}
+
+.our-process-area.img-bg {
+  background-image: url("../img/bg/our-process.png");
+}
+
+.our-process-wrap {
+  margin-top: 200px;
+}
+
+.our-process-wrap h2 {
+  color: #fff;
+  font-size: 52px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 60px;
+}
+
+.our-process-wrap p {
+  color: #fff;
+}
+
+.our-process-wrap a {
+  align-items: center;
+  border: 1px solid #fff;
+  color: #fff;
+  display: inline-flex;
+  font-weight: 400;
+  gap: 8px;
+  margin-top: 20px;
+  padding: 10px 20px;
+  text-decoration: none;
+}
+
+/* Our Process css end here  */
+
+/* Our Product css start here  */
+
+.our-product-area {
+  margin: 100px 0;
+}
+
+.our-product-wrap h2 {
+  font-size: 52px;
+  font-weight: 300;
+  line-height: 60px;
+}
+
+.our-product-wrap a {
+  align-items: center;
+  border: 1px solid #010101;
+  color: #010101;
+  display: inline-flex;
+  font-weight: 400;
+  gap: 8px;
+  margin-top: 20px;
+  padding: 10px 20px;
+  text-decoration: none;
+}
+
+.product-items {
+  height: 500px;
+  transition: 0.5s;
+  position: relative;
+  text-decoration: none;
+  display: block;
+  margin-bottom: 24px;
+}
+
+.product-items .product-img {
+  overflow: hidden;
+}
+
+.product-items .product-img img {
+  height: 500px;
+  object-fit: cover;
+  transition: transform 0.2s;
+  width: 100%;
+}
+
+.product-items:hover img {
+  transform: scale(1.1);
+}
+
+.product-items .product-text {
+  bottom: 100px !important;
+  height: 100px;
+  padding: 16px 20px;
+  position: relative !important;
+  transition: 0.5s;
+  width: 100%;
+}
+
+.product-items:hover .product-text:after {
+  background: linear-gradient(180deg, #ca2d0700, #000);
+  bottom: 0 !important;
+  content: "";
+  height: 100%;
+  left: 0;
+  position: absolute;
+  transform-origin: bottom center;
+  transition: 0.5s;
+  width: 100%;
+}
+
+.product-items .product-text p {
+  bottom: 20px;
+  color: #7c7b7b;
+  left: 50%;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0 0 1px #7c7b7b;
+  transform: translateX(-50%);
+  z-index: 1;
+}
+
+.product-items:hover .product-text > p {
+  color: #fff !important;
+  font-size: 22px;
+  transition: 0.5s;
+}
+
+/* Our Product css end here  */
+
+/* centro cares css start here  */
+
+.centro-cares-area {
+  margin: 100px 0;
+}
+
+.centro-cares-area.img-bg {
+  background-image: url("../img/bg/centro.jpg");
+}
+
+.centro-cares-wrap {
+  margin-top: 200px;
+}
+
+.centro-cares-wrap h2 {
+  color: #fff;
+  font-size: 52px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 60px;
+}
+
+.centro-cares-wrap p {
+  color: #fff;
+}
+
+.centro-cares-wrap a {
+  align-items: center;
+  border: 1px solid #fff;
+  color: #fff;
+  display: inline-flex;
+  font-weight: 400;
+  gap: 8px;
+  margin-top: 20px;
+  padding: 10px 20px;
+  text-decoration: none;
+}
+
+/* centro cares css end here  */
+
+/* our leadership css start here  */
+
+.our-leadership-area {
+  margin: 100px 0;
+  position: relative;
+  background: #ececec;
+  padding: 60px 0;
+}
+
+.our-leadership-area .img-bg {
+  background-image: url("../img/bg/leadership.png");
+  max-height: 420px;
+}
+
+.our-leadership-wrap {
+  position: absolute;
+  bottom: 120px;
+  margin-left: 60px;
+  z-index: 2;
+}
+
+.our-leadership-wrap h2 {
+  color: #fff;
+  font-size: 52px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 60px;
+}
+
+.our-leadership-wrap p {
+  color: #fff;
+}
+
+.our-leadership-wrap a {
+  align-items: center;
+  border: 1px solid #fff;
+  color: #fff;
+  display: inline-flex;
+  font-weight: 400;
+  gap: 8px;
+  margin-top: 20px;
+  padding: 10px 20px;
+  text-decoration: none;
+}
+
+/* our leadership css end here  */
+
+/* trusted partner css start here  */
+
+.trusted-area {
+  margin: 100px 0;
+}
+
+.trusted-area .section-title h3 {
+  font-size: 32px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.trusted-img {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+/* trusted partner css end here  */
+
+/* Work with us css start here  */
+
+.work-with-area {
+  margin: 100px 0;
+}
+
+.work-with-area .section-title {
+  text-align: center;
+}
+
+.work-with-area .section-title h3 {
+  font-size: 32px;
+  font-weight: 700;
+}
+
+.work-nav-btn {
+  border: 0;
+  outline: 0;
+  background: rgba(34, 34, 34, 0.149);
+  border: 1px solid #ffffff40;
+  border-radius: 0;
+  color: #101010;
+  padding: 12px 0;
+  font-size: 14px;
+  width: 50%;
+}
+
+.work-nav-btn.active {
+  background: #101010;
+  color: #fff;
+}
+
+.resume-form .input-wrap {
+  margin-bottom: 24px;
+}
+
+.resume-form .input-wrap input[type="text"],
+.resume-form .input-wrap input[type="email"] {
+  padding: 16px;
+}
+
+.resume-form .required {
+  color: #f00;
+  font-style: italic;
+  margin-top: 8px;
+}
+
+.resume-form .btn {
+  width: 100%;
+  padding: 16px;
+}
+
+/* work with us css end here  */
