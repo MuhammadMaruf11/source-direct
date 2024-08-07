@@ -1,0 +1,51 @@
+/* history hero css start here  */
+
+.history-hero-area {
+  background: #ececec;
+  margin-top: 65px;
+}
+
+.history-section-title h1 {
+  font-size: 52px;
+}
+
+.history-hero-img {
+  text-align: end;
+  height: 500px;
+}
+
+.history-hero-img img {
+  width: 400px;
+  object-fit: cover;
+  height: 500px;
+}
+
+/* history hero css end here  */
+
+/* history main css start here  */
+
+.history-main-area {
+  margin: 100px 0;
+}
+
+.history-main-title h2 {
+  color: #010101;
+  font-size: 75px;
+  line-height: 140%;
+}
+
+.history-main-title h3 {
+  color: #010101;
+  font-size: 52px;
+  line-height: 140%;
+}
+
+.history-main-subtitle h4 {
+  font-size: 34px;
+}
+
+.history-main-list ul {
+  padding-left: 24px;
+}
+
+/* history main css end here */

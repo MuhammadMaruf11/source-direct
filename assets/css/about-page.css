@@ -1,4 +1,4 @@
-/* hero css start here  */
+/* vission mission css start here  */
 
 .vision-mission-area {
   margin: 100px 0;
@@ -15,12 +15,10 @@
 
 .section-bottom-title h4 {
   font-size: 32px;
-  font-weight: 400;
 }
 
 .section-bottom-title h2 {
   font-size: 52px;
-  font-weight: 400;
 }
 
 .history-area {
@@ -32,9 +30,9 @@
   height: 350px;
 }
 
-/* hero css end here  */
+/* vission mission css end here  */
 
-/* hero css start here  */
+/* why choose css start here  */
 
 .why-choose-area {
   margin: 100px 0;
@@ -67,16 +65,15 @@
   font-size: 14px;
 }
 
-/* hero css end here  */
+/* why choose css end here  */
 
-/* hero css start here  */
+/* our certificate css start here  */
 
 .our-certificate-area {
   margin: 100px 0;
 }
 
 .our-certificate-wrap .section-title h2 {
-  font-weight: 400;
   font-size: 52px;
 }
 
@@ -95,4 +92,4 @@
   width: 200px;
 }
 
-/* hero css end here  */
+/*  our certificate css end here  */

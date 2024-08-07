@@ -25,6 +25,24 @@
 
 /* About Page css end here  */
 
+/* History Page css start here  */
+
+@import url("./history-page.css");
+
+/* History Page css end here  */
+
+/* Leadership Page css start here  */
+
+@import url("./leadership-page.css");
+
+/* Leadership Page css end here  */
+
+/* Process Page css start here  */
+
+@import url("./process-page.css");
+
+/* Process Page css end here  */
+
 /* footer css start here  */
 
 @import url("./footer.css");

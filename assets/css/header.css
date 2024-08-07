@@ -58,7 +58,7 @@
   width: 100%;
 }
 
-#mobile-menu ul li:first-child:after {
+#mobile-menu > ul > li:first-child:after {
   width: 0%;
 }
 

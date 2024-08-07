@@ -1,0 +1,40 @@
+/* process hero css start here  */
+
+.process-hero-area {
+  margin: 100px 0 0;
+}
+
+.process-hero-area.img-bg-only {
+  background-image: url("../img/process/img-1.png");
+  height: 500px;
+}
+
+.process-section-title h1 {
+  font-size: 67px;
+}
+
+/* process hero css end here  */
+
+/* process final product css start  */
+
+.final-product-area {
+  margin: 100px 0;
+}
+
+.final-product-area.img-bg {
+  background-image: url("../img/process/img-7.png");
+}
+
+.final-product-wrap {
+  margin-top: 200px;
+}
+
+.final-product-wrap h2 {
+  color: #fff;
+  font-size: 52px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 60px;
+}
+
+/* process final product css end */

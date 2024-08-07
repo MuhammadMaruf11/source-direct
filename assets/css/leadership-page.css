@@ -1,0 +1,49 @@
+/* leadership hero css start  */
+
+.leadership-hero-area {
+  margin: 100px 0 0;
+}
+
+.leadership-hero-img img {
+  width: 100%;
+  height: 400px;
+  object-fit: cover;
+  object-position: right bottom;
+}
+
+.leadership-hero-text {
+  padding: 0 30px;
+  text-align: center;
+}
+
+/* leadership hero css end */
+
+/* visionaries css start  */
+
+.our-visionaries-area {
+  margin: 100px 0;
+}
+
+.visionaries-section-title h2 {
+  font-size: 52px;
+}
+
+/* visionaries css end */
+
+/* future goal css start */
+
+.future-goal-area {
+  margin: 100px 0;
+}
+
+.future-goal-text {
+  background-color: #fff;
+  padding: 20px 10px;
+  width: 415px;
+}
+
+.future-goal-text h2 {
+  font-size: 52px;
+}
+
+/* future goal css end */
