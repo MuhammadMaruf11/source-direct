@@ -43,6 +43,18 @@
 
 /* Process Page css end here  */
 
+/* Product Page css start here  */
+
+@import url("./product-page.css");
+
+/* Product Page css end here  */
+
+/* social responsibilities Page css start here  */
+
+@import url("./social-responsibilities-page.css");
+
+/* social responsibilities Page css end here  */
+
 /* footer css start here  */
 
 @import url("./footer.css");

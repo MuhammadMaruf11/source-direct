@@ -34,6 +34,30 @@
   line-height: 140%;
 }
 
+.history-main-img .date {
+  position: absolute;
+  right: -111px;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.history-main-img .date.right_image {
+  left: -111px;
+  right: auto;
+}
+
+.history-main-img .date div {
+  background-color: #5e718d;
+  color: #fff;
+  font-size: 22px;
+  font-weight: 700;
+  padding: 8px 0;
+  text-align: center;
+  text-overflow: ellipsis;
+  transform: rotate(-90deg);
+  width: 270px;
+}
+
 .history-main-title h3 {
   color: #010101;
   font-size: 52px;
@@ -42,6 +66,15 @@
 
 .history-main-subtitle h4 {
   font-size: 34px;
+}
+
+.history-main-description {
+  margin-bottom: 20px;
+}
+
+.history-main-link a {
+  color: #121212;
+  font-weight: 600;
 }
 
 .history-main-list ul {

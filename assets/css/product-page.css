@@ -1,0 +1,29 @@
+/* product hero css start  */
+
+.product-hero-area {
+  margin: 100px 0;
+}
+
+.product-section-title h1 {
+  font-size: 67px;
+}
+
+.product-section-subtitle h3 {
+  font-size: 28px;
+}
+
+/* product hero css end */
+
+/* product images css start  */
+
+.product-img {
+  margin-bottom: 24px;
+}
+
+.product-img img {
+  height: 670px;
+  width: 100%;
+  object-fit: cover;
+}
+
+/* product images css end */
