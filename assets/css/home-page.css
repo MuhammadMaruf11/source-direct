@@ -204,21 +204,21 @@
 
 /* Our Product css end here  */
 
-/* centro cares css start here  */
+/* Source Direct Cares css start here  */
 
-.centro-cares-area {
+.source-direct-cares-area {
   margin: 100px 0;
 }
 
-.centro-cares-area.img-bg {
-  background-image: url("../img/bg/centro.jpg");
+.source-direct-cares-area.img-bg {
+  background-image: url("../img/bg/Source Direct.jpg");
 }
 
-.centro-cares-wrap {
+.source-direct-cares-wrap {
   margin-top: 200px;
 }
 
-.centro-cares-wrap h2 {
+.source-direct-cares-wrap h2 {
   color: #fff;
   font-size: 52px;
   font-style: normal;
@@ -226,11 +226,11 @@
   line-height: 60px;
 }
 
-.centro-cares-wrap p {
+.source-direct-cares-wrap p {
   color: #fff;
 }
 
-.centro-cares-wrap a {
+.source-direct-cares-wrap a {
   align-items: center;
   border: 1px solid #fff;
   color: #fff;
@@ -242,7 +242,7 @@
   text-decoration: none;
 }
 
-/* centro cares css end here  */
+/* Source Direct Cares css end here  */
 
 /* our leadership css start here  */
 

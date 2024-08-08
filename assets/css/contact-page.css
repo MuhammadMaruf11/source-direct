@@ -1,0 +1,26 @@
+/* contact form css start  */
+
+.contact-form-area {
+  margin: 100px 0;
+}
+
+.contact-form-section-title h1 {
+  font-size: 52px;
+}
+/* contact form css end */
+
+/* contact address css start  */
+
+.contact-address-area {
+  margin: 100px 0;
+}
+
+.contact-address-widget {
+  margin-bottom: 24px;
+}
+
+.contact-address-widget h2 {
+  font-size: 24px;
+}
+
+/* contact address css end */
