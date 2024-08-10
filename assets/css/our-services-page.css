@@ -1,0 +1,37 @@
+.services-area {
+  margin: 100px 0;
+}
+
+.services-content {
+  padding: 20px;
+  background: #44546a;
+  margin-bottom: 24px;
+  height: 240px;
+}
+
+.services-content .services-title.title-1 h4 {
+  color: #00b0f0;
+}
+.services-content .services-title.title-2 h4 {
+  color: #ffc000;
+}
+.services-content .services-title.title-3 h4 {
+  color: #92d050;
+}
+.services-content .services-title.title-4 h4 {
+  color: #ffff00;
+}
+.services-content .services-title.title-5 h4 {
+  color: #f4b183;
+}
+.services-content .services-title.title-6 h4 {
+  color: #bdd7ee;
+}
+
+.services-content .services-list ul {
+  list-style: inside;
+}
+
+.services-list ul li {
+  color: #fff;
+}

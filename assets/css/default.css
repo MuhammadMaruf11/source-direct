@@ -242,16 +242,16 @@ label {
   background: #ececec;
 }
 
+.bg-dark-gray {
+  background: #202020;
+}
+
 .bg-white {
   background: #fff;
 }
 
 .bg-black {
   background: #000;
-}
-
-.bg-theme {
-  background: #10c9c3;
 }
 
 .bg-light {

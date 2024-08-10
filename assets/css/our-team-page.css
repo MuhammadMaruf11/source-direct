@@ -1,0 +1,39 @@
+.team-member {
+  margin-bottom: 24px;
+}
+
+.team-member .card {
+  height: 465px;
+}
+
+.member-img {
+  padding: 20px 0;
+  text-align: center;
+  border-bottom: 1px solid #d2d2d2;
+}
+
+.member-img img {
+  width: 50%;
+}
+
+.team-member .card-title {
+  font-weight: 600;
+}
+
+.team-member .card-title.member-1 {
+  color: #ff5969;
+}
+
+.team-member .card-title.member-2 {
+  color: #00a0a8;
+}
+
+.team-member .card-title.member-3 {
+  color: #548235;
+}
+
+.team-member ul li a {
+  font-size: 12.5px;
+  color: #70ad47;
+  font-weight: 700;
+}

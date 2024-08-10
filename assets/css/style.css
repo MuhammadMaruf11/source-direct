@@ -49,6 +49,24 @@
 
 /* Product Page css end here  */
 
+/* Sustainability Page css start here  */
+
+@import url("./sustainability-page.css");
+
+/* Sustainability Page css end here  */
+
+/* Our Team Page css start here  */
+
+@import url("./our-team-page.css");
+
+/* Our Team Page css end here  */
+
+/* Our Services Page css start here  */
+
+@import url("./our-services-page.css");
+
+/* Our Services Page css end here  */
+
 /* social responsibilities Page css start here  */
 
 @import url("./social-responsibilities-page.css");
